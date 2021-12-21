@@ -1,3 +1,10 @@
+# CRUD Application With React and Spring Boot
+
+Spring boot REST services for CRUD app
+
+Based on the tutorial from Baeldung.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Relevant Articles:
+
+- [CRUD Application With React and Spring Boot](https://www.baeldung.com/spring-boot-react-crud)
+
